@@ -7,3 +7,5 @@
     make build to build the shared library; 
     make clean to clean build folder; 
     make run/test ARGS="dir/path/A dir/path/B"
+
+5. 2 test directories, dirA and dirB, are provided in under /test/test1. Those directories can be provided as a test to the program.
