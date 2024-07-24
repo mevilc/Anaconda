@@ -1,0 +1,2 @@
+/home/mevil/AnacondaTakeHome/test/test1/dirA/file1.txt /home/mevil/AnacondaTakeHome/test/test1/dirB/file3.txt
+/home/mevil/AnacondaTakeHome/test/test1/dirA/file1.txt /home/mevil/AnacondaTakeHome/test/test1/dirB/file4.txt
